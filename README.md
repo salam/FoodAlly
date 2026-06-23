@@ -3,7 +3,7 @@
 FoodAlly hilft dir, beim täglichen Einkauf das beste Preis-Leistungs-Verhältnis
 zu finden – neutral, werbefrei und im Interesse der Einkaufenden.
 
-👉 **Zur App: https://foodally.sala.ch**
+👉 **Zur App: https://foodally.ch**
 
 ## Was FoodAlly kann
 - Produktpreise über viele Schweizer Händler vergleichen
