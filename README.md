@@ -16,4 +16,4 @@ Erstelle hier ein **Issue** – wir freuen uns über jede Rückmeldung:
 👉 https://github.com/salam/FoodAlly/issues/new
 
 ## Neuigkeiten
-Alle Updates findest du unter **[Neuigkeiten](https://github.com/salam/FoodAlly/blob/main/RELEASES.md)**.
+Alle Updates findest du unter **[Releases](https://github.com/salam/FoodAlly/releases)**.
